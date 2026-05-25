@@ -1,6 +1,6 @@
 # KodeCamp 6.0 — Student Dashboard
 
-Solution  to React Task 3 
+Solution  to React Task 2 
 
 A React-based student dashboard that displays enrolled students, their performance scores, skill sets, and status — built with a component-driven architecture.
 
